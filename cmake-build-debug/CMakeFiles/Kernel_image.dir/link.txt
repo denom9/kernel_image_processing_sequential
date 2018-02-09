@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Kernel_image.dir/main.cpp.o CMakeFiles/Kernel_image.dir/Image.cpp.o CMakeFiles/Kernel_image.dir/PPM.cpp.o  -o Kernel_image 

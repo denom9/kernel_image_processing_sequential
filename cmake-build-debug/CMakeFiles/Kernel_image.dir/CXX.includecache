@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Image.cpp
+Image.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Image.h
+Utils.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Utils.h
+iostream
+-
+cassert
+-
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Image.h
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/PPM.cpp
+PPM.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/PPM.h
+Utils.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Utils.h
+Image.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Image.h
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cmath
+-
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/PPM.h
+Image.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Image.h
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/Utils.h
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/kernels.h
+
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/main.cpp
+iostream
+-
+chrono
+-
+PPM.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/PPM.h
+kernels.h
+/home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/kernels.h
+
