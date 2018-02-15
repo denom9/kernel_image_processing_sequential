@@ -47,6 +47,10 @@ iostream
 -
 chrono
 -
+cmath
+-
+cstring
+-
 PPM.h
 /home/samuele/Documenti/Università/Parallel Computing/Progetto finale/Kernel image/sequential/PPM.h
 kernels.h
