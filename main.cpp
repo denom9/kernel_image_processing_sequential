@@ -54,7 +54,7 @@ int main(int argc, char* argv[]) {
     std::chrono::duration<double> elapsed = end-start;
     std::cout << elapsed.count();
 
-    PPM_export(strcat(outputPath,"/output_sequential.ppm"),output);
+    PPM_export(((std::string)outputPath + "/output_sequential.ppm").c_str(),output);
 
     return 0;
 }
